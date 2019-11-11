@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c96a6511-e180-4cf2-9c3a-0468e8b39d78" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RFNpAKSJ0BBI09u3214RToZOXF" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Seminar_9" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DifferentTrying.Calculator" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DifferentTrying.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Checking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminar_4.Checking" />
+      <module name="Seminar_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seminar_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstChapret" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DifferentTrying.FirstChapret" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DifferentTrying.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reflection.ReflectionTest" />
+      <module name="Seminar_6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminar_4.kek" />
+      <module name="Seminar_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seminar_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.FirstChapret" />
+        <item itemvalue="Application.Checking" />
+        <item itemvalue="Application.ReflectionTest" />
+        <item itemvalue="Application.kek" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c96a6511-e180-4cf2-9c3a-0468e8b39d78" name="Default Changelist" comment="" />
+      <created>1569259063977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569259063977</updated>
+      <workItem from="1569259067537" duration="838000" />
+      <workItem from="1569259944211" duration="67000" />
+      <workItem from="1569260046054" duration="2061000" />
+      <workItem from="1569263716832" duration="377000" />
+      <workItem from="1569815743643" duration="11179000" />
+      <workItem from="1569951389966" duration="3284000" />
+      <workItem from="1569954693820" duration="6862000" />
+      <workItem from="1570355160876" duration="13410000" />
+      <workItem from="1570722545632" duration="666000" />
+      <workItem from="1570781115890" duration="36000" />
+      <workItem from="1570816262977" duration="4048000" />
+      <workItem from="1571067089257" duration="2107000" />
+      <workItem from="1571508503393" duration="24412000" />
+      <workItem from="1572005080159" duration="1842000" />
+      <workItem from="1572256987064" duration="994000" />
+      <workItem from="1572277679300" duration="3741000" />
+      <workItem from="1572562410394" duration="601000" />
+      <workItem from="1573486417484" duration="2142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

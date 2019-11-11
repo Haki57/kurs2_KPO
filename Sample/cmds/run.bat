@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk-11.0.2\bin\java" -cp .;C:\MyJavaPrj\Seminars\out\production\Sample p1.p2.Hellow
