@@ -44,6 +44,6 @@ public class Program {
         Predicate<Integer> kek = x -> x + x > 0;
         UnaryOperator<Integer> lol = x -> x + x;
         //UnaryOperator
-        System.out.println(lol.);
+        //System.out.println(lol.);
     }
 }
