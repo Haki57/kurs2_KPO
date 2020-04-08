@@ -1,0 +1,22 @@
+The goals of the lesson are:
+   - to build a couple of samples for Java and C-code interaction using JNI;
+   - to show MS VisualStudio C/C++ compiler usage to build dll with native code implementation.
+
+WARNING: when implementing native function in C take care of case sensitivity in all the names (including packages, etc...)
+
+For further exercises:
+        - add string parameter to the native method (e.g. "Hello from " + args[0]) and implement it
+            with passing some reply back to java (e.g. current time)...
+        - What great code in C/C++ you have implemented? Call [and communicate with] it from Java...
+
+Read about 64-bit compiler by Microsoft:
+https://msdn.microsoft.com/en-us/library/h2k70f3s.aspx
+
+To have more practice - try to implement various native calls: with passing arrays, strings, objects, ... as parameters and
+return values, with throwing exceptions, using static and non-static native methods, etc.
+Sometimes, it is desirable to start java program from C-application and have C-program as a main starting point of the application.
+Try playing according that scenario...)
+
+All that exercises are mainly related with C-programming issues rather than with Java-programming
+that is much more user friendly (as these exercises help to feel).
+
